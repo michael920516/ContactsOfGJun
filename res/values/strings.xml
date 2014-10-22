@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContactsOfGJun</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Add</string>
+    <string name="title_activity_add">InputAdd</string>
+    <string name="action_delete">Delete</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_search">Search</string>
+    <string name="action_edit">Edit</string>
+    <string name="title_activity_edit">EditActivity</string>
+
+</resources>
